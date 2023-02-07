@@ -36,3 +36,10 @@ If I had more time with Tableau, here are some of the things I would do to furth
 * Create interactive dashboards: I would create interactive dashboards that can be used to explore and analyze data in a more dynamic way.
 
 Overall, with more time with Tableau Project, I would aim to deepen my understanding of the software and explore new ways to analyze and communicate insights from data.
+
+## Worksheets
+I was not able to export the Worksheet in .twb format with my visualizations. Following are the links to my Tableau Public account:
+* https://public.tableau.com/app/profile/ben2740/viz/Pricedifferences/Sheet1
+* https://public.tableau.com/app/profile/ben2740/viz/Severaleconomiccrises/Sheet1
+* https://public.tableau.com/app/profile/ben2740/viz/Regressionline-PatternTrendLine/Sheet1
+* https://public.tableau.com/app/profile/ben2740/viz/W4Project/HousePrices
