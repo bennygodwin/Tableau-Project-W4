@@ -34,4 +34,5 @@ If I had more time with Tableau, here are some of the things I would do to furth
 * Enhance data visualization: I would experiment with different visualization options to find the best way to communicate insights from the data.
 * Perform more complex calculations: I would the calculation options in Tableau and use them to perform more in-depth analysis on the data.
 * Create interactive dashboards: I would create interactive dashboards that can be used to explore and analyze data in a more dynamic way.
+
 Overall, with more time with Tableau Project, I would aim to deepen my understanding of the software and explore new ways to analyze and communicate insights from data.
